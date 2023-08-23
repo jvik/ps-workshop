@@ -8,4 +8,4 @@ TODO: Guide users through getting your code up and running on their own system. 
 3.	install Ps extension for VsCode
 4.	install AD modulen
 
-kap-2
+num + 2 = kap
